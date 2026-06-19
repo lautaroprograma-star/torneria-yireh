@@ -16,3 +16,10 @@ Página web one-page para Tornería Yireh. Incluye presentación de servicios, s
 - Schema.org (datos estructurados para SEO)
 
 ## 📂 Estructura del proyecto
+torneria-yireh/
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+└── README.md
