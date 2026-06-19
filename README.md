@@ -19,7 +19,7 @@ Página web one-page para Tornería Yireh. Incluye presentación de servicios, s
 
 El proyecto está organizado de la siguiente manera:
 
-index.html – Página principal del sitio. Contiene toda la estructura HTML y el contenido visible.
+index.html – Página principal del sitio. Contiene toda la estructura HTML y el contenido visible
 
 css/style.css – Hoja de estilos externa con todos los diseños, colores, animaciones y diseño responsive.
 
