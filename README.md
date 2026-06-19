@@ -16,10 +16,16 @@ Página web one-page para Tornería Yireh. Incluye presentación de servicios, s
 - Schema.org (datos estructurados para SEO)
 
 ## 📂 Estructura del proyecto
-torneria-yireh/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-└── README.md
+
+El proyecto está organizado de la siguiente manera:
+
+index.html – Página principal del sitio. Contiene toda la estructura HTML y el contenido visible.
+
+css/style.css – Hoja de estilos externa con todos los diseños, colores, animaciones y diseño responsive.
+
+js/script.js – Archivo JavaScript con las funcionalidades interactivas: menú móvil, acordeón de FAQ, scroll suave y animaciones al hacer scroll.
+
+README.md – Este archivo con la documentación del proyecto.
+
+No hay dependencias adicionales más que las que se cargan desde CDN (Google Fonts y Font Awesome), por lo que el proyecto es liviano y fácil de mantener.
+
